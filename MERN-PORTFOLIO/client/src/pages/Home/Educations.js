@@ -24,6 +24,8 @@
 
 //             export default Educations
 
+
+
 import React from 'react';
 import SectionTitle from '../../components/SectionTitle';
 import { educations } from '../../resources/educations';
