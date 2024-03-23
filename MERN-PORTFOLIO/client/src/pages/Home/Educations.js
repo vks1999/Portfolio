@@ -11,7 +11,7 @@ function Educations() {
 
             <div className="flex flex-col md:flex-row py-10 gap-5 md:gap-20 -red">
                 <div className="md:w-1/3">
-                    <div className="flex flex-col gap-10 border-l-2 border-[#135e4c82]">
+                    <div className="flex sm:flex-row xl:flex-col gap-10 border-l-2 border-[#135e4c82]">
                         {educations.map((education, index) => (
                             <div
                                 key={index}
@@ -26,6 +26,8 @@ function Educations() {
                             </div>
                         ))}
                     </div>
+
+
                 </div>
                 <div className="md:w-2/3">
                     <div className="flex flex-col gap-5">
