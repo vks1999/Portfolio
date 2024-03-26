@@ -5,7 +5,6 @@ import { educations } from "../../resources/educations";
 function Educations() {
     const [selectedItemIndex, setSelectedItemIndex] = React.useState(0);
 
-
     return (
         <div>
             <SectionTitle title="Educations" />
