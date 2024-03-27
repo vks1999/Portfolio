@@ -44,3 +44,5 @@ function Educations() {
 
 export default Educations;
 
+
+
