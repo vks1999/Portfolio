@@ -58,6 +58,14 @@ function About() {
     "Bootstrap",
     "JavaScript",
     "ReactJS",
+    "Node JS",
+    "Tailwind CSS",
+    "Material UI",
+    "Mongo DB",
+    "DSA",
+    "Internet Of Things (IOT)",
+    "MS-Office",
+    "Windows",
   ];
 
   return (
