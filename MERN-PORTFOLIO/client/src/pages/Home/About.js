@@ -68,6 +68,7 @@ function About() {
     "Windows",
   ];
 
+
   return (
     <div>
       <SectionTitle title="About" />
