@@ -84,7 +84,7 @@ function About() {
             </p>
 
             <p className="text-white">
-              Luo8gqekagdfuiwnhkdsdshdfciulkwajgsbrldfxbxhiuckwhalesuidfkjbv erluasidgfvcwrjgsdf8cui jkwrsvg dziuxjbwg   eqdfiashcuwiegbadfuci gb wghguiesk buguud w9eidfhc 8woiuejsadhfxoci  ewidoshfco8 wileshdanzxoi edihfcwoeilsdhafc8ouwedhx eugugggwdalfuhcwoeiladuf9coi welkdachgnx opweduajf9coiwlekhadnc9oi lkweadn
+              Luo8gqekagdfuiwnhkdsdshdyfyugfciulkwajgsbrldfxbxhiuckwhalesuidfkjbv erluasidgfvcwrjgsdf8cui jkwrsvg dziuxjbwg   eqdfiashcuwiegbadfuci gb wghguiesk buguud w9eidfhc 8woiuejsadhfxoci  ewidoshfco8 wileshdanzxoi edihfcwoeilsdhafc8ouwedhx eugugggwdalfuhcwoeiladuf9coi welkdachgnx opweduajf9coiwlekhadnc9oi lkweadn
             </p>
           </div>
         </div>
